@@ -6,6 +6,11 @@
 @import "yet-another-react-lightbox/plugins/captions.css";
 @import "yet-another-react-lightbox/plugins/thumbnails.css";
 
+html ,body {
+  overflow-x: hidden;
+  background-color: #121212;
+}
+
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
