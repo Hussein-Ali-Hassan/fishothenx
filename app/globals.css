@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "yet-another-react-lightbox/styles.css";
+@import "yet-another-react-lightbox/plugins/captions.css";
+@import "yet-another-react-lightbox/plugins/thumbnails.css";
+
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
