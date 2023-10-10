@@ -1,7 +1,7 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
+import { Comic_Neue } from "next/font/google";
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Comic_Neue({ subsets: ["latin"], weight: ["400", "700"] });
 
 export const metadata = {
   title: "FishoThenx",
