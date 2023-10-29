@@ -8,7 +8,7 @@ const members = [
     imageUrl: "/members/husn.jpeg",
   },
   {
-    name: "Abedallah Farhat",
+    name: "Abdallah Farhat",
     imageUrl: "/members/abedallah.jpeg",
   },
   {
