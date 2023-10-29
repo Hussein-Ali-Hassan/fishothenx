@@ -72,6 +72,8 @@ const images = [
 
   "https://firebasestorage.googleapis.com/v0/b/fishothenx.appspot.com/o/playground%2F20258b9036b8cda6bf06957761d9c223.jpg?alt=media&token=af1d28a0-a58c-4914-8cdc-5517390661f8",
 
+  "/hero.jpg",
+
   "https://firebasestorage.googleapis.com/v0/b/fishothenx.appspot.com/o/playground%2FIMG_8669%20Medium.jpeg?alt=media&token=0ee56955-c8f4-417e-bcb9-1c03df38fff9",
 
   "https://firebasestorage.googleapis.com/v0/b/fishothenx.appspot.com/o/playground%2FIMG_8690%20Medium.jpeg?alt=media&token=a37fa7f6-2cb4-4e23-9aef-6fe4461f4bc8",
@@ -83,6 +85,8 @@ const images = [
   "https://firebasestorage.googleapis.com/v0/b/fishothenx.appspot.com/o/playground%2FIMG_8675%20Medium.jpeg?alt=media&token=cf4041b8-48c4-4068-87be-c3a12c71510e",
 
   "https://firebasestorage.googleapis.com/v0/b/fishothenx.appspot.com/o/playground%2FIMG_8692%20Medium.jpeg?alt=media&token=e31d3e84-b66c-4ad2-808b-0688bd516fc9",
+
+  "/hero.jpeg",
 ];
 
 export default function Playground() {
