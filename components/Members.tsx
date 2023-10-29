@@ -1,11 +1,11 @@
 const members = [
   {
-    name: "Hussein Hassan",
-    imageUrl: "/members/husn.jpeg",
-  },
-  {
     name: "Ali Z. Nazar",
     imageUrl: "/members/zeyad.jpeg",
+  },
+  {
+    name: "Hussein Hassan",
+    imageUrl: "/members/husn.jpeg",
   },
   {
     name: "Abedallah Farhat",
