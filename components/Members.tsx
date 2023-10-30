@@ -10,7 +10,7 @@ const members = [
     active: true,
   },
   {
-    name: "Abedallah Farhat",
+    name: "Abdallah Farhat",
     imageUrl: "/members/abedallah.jpeg",
     active: true,
   },
