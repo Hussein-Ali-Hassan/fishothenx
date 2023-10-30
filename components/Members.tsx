@@ -40,6 +40,11 @@ const members = [
     imageUrl: "/members/amjad.jpg",
     active: false,
   },
+  {
+    name: "Ali Khatoun",
+    imageUrl: "/members/khatoun.jpeg",
+    active: false,
+  },
 ];
 
 export default function Members() {
