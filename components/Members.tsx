@@ -10,11 +10,6 @@ const members = [
     active: true,
   },
   {
-    name: "Abdallah Farhat",
-    imageUrl: "/members/abedallah.jpeg",
-    active: true,
-  },
-  {
     name: "Jawad Noureddine",
     imageUrl: "/members/jawad.jpeg",
     active: true,
@@ -28,6 +23,11 @@ const members = [
   {
     name: "Hussein Noureddine",
     imageUrl: "/members/sayed.jpg",
+    active: false,
+  },
+  {
+    name: "Abdallah Farhat",
+    imageUrl: "/members/abedallah.jpeg",
     active: false,
   },
   {
