@@ -1,5 +1,6 @@
-import './globals.css'
+import "./globals.css";
 import { Comic_Neue } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Comic_Neue({ subsets: ["latin"], weight: ["400", "700"] });
 
@@ -11,7 +12,7 @@ export const metadata = {
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
@@ -35,7 +36,10 @@ export default function RootLayout({
         />
         <link rel="manifest" href="/site.webmanifest" />
       </head>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
